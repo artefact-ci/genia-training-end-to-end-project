@@ -3,7 +3,7 @@
 Cette brique est un choix de conception : l'intégrer (ou non) à `rag_tool.py` et
 justifier la décision. Voir README.
 """
-from orange_bank_agent.schemas import Chunk
+from lagune_bank_agent.schemas import Chunk
 
 
 def foundry_rerank(question: str, chunks: list[Chunk], top_n: int) -> list[Chunk]:

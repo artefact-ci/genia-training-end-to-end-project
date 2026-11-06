@@ -12,10 +12,10 @@ from typing import Any
 from langchain_core.messages import AIMessage, HumanMessage, ToolMessage
 from langgraph.types import Command
 
-from orange_bank_agent.observability import tracing
-from orange_bank_agent import guardrails
-from orange_bank_agent.schemas import AgentResult, ToolCallRecord
-from orange_bank_agent.stubs import is_stub
+from lagune_bank_agent.observability import tracing
+from lagune_bank_agent import guardrails
+from lagune_bank_agent.schemas import AgentResult, ToolCallRecord
+from lagune_bank_agent.stubs import is_stub
 
 log = logging.getLogger(__name__)
 

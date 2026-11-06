@@ -1,4 +1,4 @@
-ORANGE BANK — PROCÉDURES INTERNES DU SERVICE CLIENT
+LAGUNE BANK — PROCÉDURES INTERNES DU SERVICE CLIENT
 Version en vigueur au 1er janvier 2026
 Document interne fictif, rédigé à des fins pédagogiques. À destination des conseillers et de l'assistant virtuel.
 
@@ -43,7 +43,7 @@ P-03 — RÉCLAMATION CLIENT
 =====================================================================
 Niveau 1 : le Service Client enregistre la réclamation et envoie un accusé de réception sous 10 jours ouvrés. Il apporte une réponse sous 15 jours ouvrés.
 Niveau 2 : si le client n'est pas satisfait, la réclamation est transmise au Service Réclamations.
-Médiation : si le désaccord persiste, ou en l'absence de réponse satisfaisante sous 2 mois, le client peut saisir gratuitement le médiateur bancaire (coordonnées sur orangebank.example). Le conseiller doit l'en informer.
+Médiation : si le désaccord persiste, ou en l'absence de réponse satisfaisante sous 2 mois, le client peut saisir gratuitement le médiateur bancaire (coordonnées sur lagunebank.example). Le conseiller doit l'en informer.
 
 =====================================================================
 P-04 — DÉBLOCAGE D'ACCÈS À L'APPLICATION

@@ -63,7 +63,7 @@ class Settings:
             langfuse_host=_env("LANGFUSE_HOST", "https://cloud.langfuse.com"),
             docs_dir=PROJECT_ROOT / "data" / "docs",
             chroma_dir=chroma_dir,
-            collection_name="orange_bank_docs",
+            collection_name="lagune_bank_docs",
             chunk_size=int(_env("CHUNK_SIZE", "700")),
             chunk_overlap=int(_env("CHUNK_OVERLAP", "100")),
         )

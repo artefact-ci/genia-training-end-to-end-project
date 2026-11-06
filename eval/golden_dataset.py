@@ -5,7 +5,7 @@ Lancement prévu :  python -m eval.golden_dataset  (depuis la racine du projet)
 from dataclasses import dataclass, field
 from typing import Callable
 
-from orange_bank_agent.schemas import AgentResult
+from lagune_bank_agent.schemas import AgentResult
 
 # Une variante = une façon de faire répondre l'agent : question -> résultat.
 AgentVariant = Callable[[str], AgentResult]

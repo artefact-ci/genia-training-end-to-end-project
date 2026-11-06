@@ -1787,6 +1787,47 @@ wheels = [
 ]
 
 [[package]]
+name = "lagune-bank-agent"
+version = "0.1.0"
+source = { editable = "." }
+dependencies = [
+    { name = "chromadb" },
+    { name = "langchain" },
+    { name = "langchain-core" },
+    { name = "langchain-litellm", version = "0.8.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.11'" },
+    { name = "langchain-litellm", version = "0.11.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
+    { name = "langchain-text-splitters" },
+    { name = "langfuse" },
+    { name = "langgraph" },
+    { name = "litellm" },
+    { name = "python-dotenv" },
+    { name = "streamlit", version = "1.65.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.11'" },
+    { name = "streamlit", version = "1.67.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
+]
+
+[package.dev-dependencies]
+dev = [
+    { name = "pytest" },
+]
+
+[package.metadata]
+requires-dist = [
+    { name = "chromadb", specifier = ">=0.5" },
+    { name = "langchain", specifier = ">=0.3" },
+    { name = "langchain-core", specifier = ">=0.3" },
+    { name = "langchain-litellm", specifier = ">=0.2" },
+    { name = "langchain-text-splitters", specifier = ">=0.3" },
+    { name = "langfuse", specifier = ">=3,<4" },
+    { name = "langgraph", specifier = ">=0.4" },
+    { name = "litellm", specifier = ">=1.50" },
+    { name = "python-dotenv", specifier = ">=1.0" },
+    { name = "streamlit", specifier = ">=1.35" },
+]
+
+[package.metadata.requires-dev]
+dev = [{ name = "pytest", specifier = ">=8" }]
+
+[[package]]
 name = "langchain"
 version = "1.4.9"
 source = { registry = "https://pypi.org/simple" }
@@ -3275,47 +3316,6 @@ sdist = { url = "https://files.pythonhosted.org/packages/37/3f/50f95972b50e8e353
 wheels = [
     { url = "https://files.pythonhosted.org/packages/67/bd/6bf33ed31521c565931c037e9e81bac47c1acb000e850c6e24220e2a0c00/opentelemetry_semantic_conventions-0.66b2-py3-none-any.whl", hash = "sha256:4cbe61e5f9275d57ab31708446e7938ef4291ebbe6a7fca6f7a629c5acae87d8", size = 206280, upload-time = "2026-10-29T17:29:35.062Z" },
 ]
-
-[[package]]
-name = "orange-bank-agent"
-version = "0.1.0"
-source = { editable = "." }
-dependencies = [
-    { name = "chromadb" },
-    { name = "langchain" },
-    { name = "langchain-core" },
-    { name = "langchain-litellm", version = "0.8.1", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.11'" },
-    { name = "langchain-litellm", version = "0.11.2", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
-    { name = "langchain-text-splitters" },
-    { name = "langfuse" },
-    { name = "langgraph" },
-    { name = "litellm" },
-    { name = "python-dotenv" },
-    { name = "streamlit", version = "1.65.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version < '3.11'" },
-    { name = "streamlit", version = "1.67.0", source = { registry = "https://pypi.org/simple" }, marker = "python_full_version >= '3.11'" },
-]
-
-[package.dev-dependencies]
-dev = [
-    { name = "pytest" },
-]
-
-[package.metadata]
-requires-dist = [
-    { name = "chromadb", specifier = ">=0.5" },
-    { name = "langchain", specifier = ">=0.3" },
-    { name = "langchain-core", specifier = ">=0.3" },
-    { name = "langchain-litellm", specifier = ">=0.2" },
-    { name = "langchain-text-splitters", specifier = ">=0.3" },
-    { name = "langfuse", specifier = ">=3,<4" },
-    { name = "langgraph", specifier = ">=0.4" },
-    { name = "litellm", specifier = ">=1.50" },
-    { name = "python-dotenv", specifier = ">=1.0" },
-    { name = "streamlit", specifier = ">=1.35" },
-]
-
-[package.metadata.requires-dev]
-dev = [{ name = "pytest", specifier = ">=8" }]
 
 [[package]]
 name = "orjson"

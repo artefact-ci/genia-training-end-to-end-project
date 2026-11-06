@@ -7,8 +7,8 @@ Un test est « SKIPPED » tant que sa brique n'est pas implémentée : c'est nor
 """
 import pytest
 
-from orange_bank_agent.config import settings
-from orange_bank_agent.stubs import is_stub
+from lagune_bank_agent.config import settings
+from lagune_bank_agent.stubs import is_stub
 
 
 def need(fn, brique: str):
@@ -18,7 +18,7 @@ def need(fn, brique: str):
 
 # --------------------------------------------------------------------------- socle
 def test_socle_registre_outils_ne_plante_pas():
-    from orange_bank_agent.tools import load_tools, tool_status
+    from lagune_bank_agent.tools import load_tools, tool_status
 
     assert isinstance(load_tools(), list)
     assert set(tool_status()) == {"search_documentation", "estimate_fees", "block_card", "open_dispute"}
@@ -26,7 +26,7 @@ def test_socle_registre_outils_ne_plante_pas():
 
 def test_socle_graphe_se_construit_sans_cle_llm(monkeypatch):
     """Le graphe de base doit se construire même si aucune brique n'est faite."""
-    from orange_bank_agent.graph import agent_graph
+    from lagune_bank_agent.graph import agent_graph
 
     monkeypatch.setattr(agent_graph, "get_chat_model", lambda: _FakeModel())
     graph = agent_graph.build_graph()
@@ -49,13 +49,13 @@ RETRIEVAL_CASES = [
     ("Combien coûte le remplacement d'une carte Gold ?", {"grille_frais.txt", "faq.txt"}),
     ("Quel est le taux du livret d'épargne et son plafond ?", {"fiches_produits.txt", "faq.txt", "cgu.txt"}),
     ("Que doit faire un conseiller quand un client demande l'opposition de sa carte ?", {"procedures.txt"}),
-    ("Quels services inclut la carte Orange Prestige ?", {"fiches_produits.txt"}),
+    ("Quels services inclut la carte Lagune Prestige ?", {"fiches_produits.txt"}),
 ]
 
 
 @pytest.fixture
 def retrieve():
-    from orange_bank_agent.tools.rag_tool import retrieve
+    from lagune_bank_agent.tools.rag_tool import retrieve
 
     need(retrieve, "Brique 1")
     return retrieve
@@ -88,7 +88,7 @@ def test_brique1_bonnes_sources(retrieve, question, expected_sources):
 # --------------------------------------------------------------------------- brique 2
 @pytest.fixture
 def fee():
-    from orange_bank_agent.tools.fee_calculator import calculate_fee
+    from lagune_bank_agent.tools.fee_calculator import calculate_fee
 
     need(calculate_fee, "Brique 2")
     return calculate_fee
@@ -141,7 +141,7 @@ def test_brique2_erreurs(fee, args):
 # --------------------------------------------------------------------------- brique 3
 @pytest.fixture
 def bank():
-    from orange_bank_agent.tools import transaction_tool as tt
+    from lagune_bank_agent.tools import transaction_tool as tt
 
     need(tt.block_card, "Brique 3")
     need(tt.open_dispute, "Brique 3")
@@ -186,7 +186,7 @@ def test_brique3_reset(bank):
 
 # --------------------------------------------------------------------------- brique 4
 def test_brique4_graphe_complet(monkeypatch):
-    from orange_bank_agent.graph import agent_graph
+    from lagune_bank_agent.graph import agent_graph
 
     need(agent_graph.build_full_graph, "Brique 4")
     monkeypatch.setattr(agent_graph, "get_chat_model", lambda: _FakeModel())
@@ -197,8 +197,8 @@ def test_brique4_graphe_complet(monkeypatch):
 
 # --------------------------------------------------------------------------- brique 5 (optionnelle)
 def test_brique5_rerank_contrat():
-    from orange_bank_agent.schemas import Chunk
-    from orange_bank_agent.tools.reranker import foundry_rerank
+    from lagune_bank_agent.schemas import Chunk
+    from lagune_bank_agent.tools.reranker import foundry_rerank
 
     need(foundry_rerank, "Brique 5 (optionnelle)")
     assert foundry_rerank("question", [], 3) == []
@@ -215,8 +215,8 @@ def test_brique5_rerank_contrat():
 
 # --------------------------------------------------------------------------- brique 6
 def test_brique6_scores_ne_plantent_pas():
-    from orange_bank_agent.observability.tracing import record_tool_scores
-    from orange_bank_agent.schemas import ToolCallRecord
+    from lagune_bank_agent.observability.tracing import record_tool_scores
+    from lagune_bank_agent.schemas import ToolCallRecord
 
     need(record_tool_scores, "Brique 6")
     calls = [ToolCallRecord(name="block_card", args={}, content="ok", artifact={"success": True})]
@@ -240,7 +240,7 @@ def test_brique7_jeu_de_reference():
 # --------------------------------------------------------------------------- brique 8
 @pytest.fixture
 def gr():
-    from orange_bank_agent import guardrails
+    from lagune_bank_agent import guardrails
 
     need(guardrails.check_input, "Brique 8")
     need(guardrails.check_output, "Brique 8")

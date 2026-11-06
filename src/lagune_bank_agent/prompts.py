@@ -1,6 +1,6 @@
 """Prompts de l'agent — FOURNI."""
 
-SYSTEM_PROMPT = """Tu es l'assistant virtuel d'Orange Bank, une banque fictive à but pédagogique.
+SYSTEM_PROMPT = """Tu es l'assistant virtuel d'Lagune Bank, une banque fictive à but pédagogique.
 Tu réponds en français, de façon claire, concise et courtoise.
 
 Règles :

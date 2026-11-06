@@ -3,7 +3,7 @@
 Découpe les fichiers de `data/docs/` en chunks (RecursiveCharacterTextSplitter)
 et les indexe dans une collection Chroma locale (embeddings via LiteLLM).
 
-Lancement :  python -m orange_bank_agent.ingestion
+Lancement :  python -m lagune_bank_agent.ingestion
 """
 from __future__ import annotations
 
@@ -13,7 +13,7 @@ import chromadb
 from chromadb.config import Settings as ChromaSettings
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-from orange_bank_agent.config import embed_texts, settings
+from lagune_bank_agent.config import embed_texts, settings
 
 
 def load_documents(docs_dir: Path | None = None) -> list[tuple[str, str]]:

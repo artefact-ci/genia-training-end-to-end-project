@@ -1,6 +1,6 @@
 """Interface Streamlit — FOURNIE, FONCTIONNELLE dès la Brique 0.
 
-Lancement :  streamlit run src/orange_bank_agent/ui/app.py
+Lancement :  streamlit run src/lagune_bank_agent/ui/app.py
 Utilise exactement le même `build_graph()` et le même runner que la CLI.
 Après avoir modifié le code d'une brique, relancez Streamlit.
 """
@@ -12,13 +12,13 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))  # permet de lancer
 
 import streamlit as st  # noqa: E402
 
-from orange_bank_agent.config import settings  # noqa: E402
-from orange_bank_agent.graph.agent_graph import build_graph  # noqa: E402
-from orange_bank_agent.observability.tracing import flush_traces  # noqa: E402
-from orange_bank_agent.runner import ask, resume  # noqa: E402
-from orange_bank_agent.tools import tool_status  # noqa: E402
+from lagune_bank_agent.config import settings  # noqa: E402
+from lagune_bank_agent.graph.agent_graph import build_graph  # noqa: E402
+from lagune_bank_agent.observability.tracing import flush_traces  # noqa: E402
+from lagune_bank_agent.runner import ask, resume  # noqa: E402
+from lagune_bank_agent.tools import tool_status  # noqa: E402
 
-st.set_page_config(page_title="Orange Bank — Assistant", page_icon="🟧")
+st.set_page_config(page_title="Lagune Bank — Assistant", page_icon="🟧")
 
 
 @st.cache_resource
@@ -82,7 +82,7 @@ def run_turn(fn, *args) -> None:
 
 # ---------------------------------------------------------------- sidebar
 with st.sidebar:
-    st.header("Orange Bank")
+    st.header("Lagune Bank")
     if st.button("Nouvelle conversation"):
         new_conversation()
         st.rerun()
@@ -96,7 +96,7 @@ with st.sidebar:
         st.warning("LLM_API_KEY absente : copiez .env.example en .env.")
 
 # ---------------------------------------------------------------- chat
-st.title("🟧 Assistant Orange Bank")
+st.title("🟧 Assistant Lagune Bank")
 
 for message in st.session_state.messages:
     render(message)

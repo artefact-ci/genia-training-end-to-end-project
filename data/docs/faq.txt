@@ -1,17 +1,17 @@
-ORANGE BANK — FOIRE AUX QUESTIONS (FAQ) CLIENTS
+LAGUNE BANK — FOIRE AUX QUESTIONS (FAQ) CLIENTS
 Version en vigueur au 1er janvier 2026
 Document fictif, rédigé à des fins pédagogiques.
 
 === OUVERTURE ET GESTION DU COMPTE ===
 
-Q : Comment ouvrir un compte chez Orange Bank ?
+Q : Comment ouvrir un compte chez Lagune Bank ?
 R : L'ouverture se fait entièrement depuis l'application. Il faut être majeur, résider fiscalement en France, et fournir une pièce d'identité en cours de validité et un justificatif de domicile de moins de 3 mois. Une vérification d'identité par vidéo est réalisée, et vous recevez la décision de la Banque sous 48 heures.
 
 Q : Puis-je changer d'avis après l'ouverture de mon compte ?
 R : Oui. Vous disposez d'un délai de rétractation de 14 jours calendaires à compter de la conclusion du contrat, sans pénalité ni justification. La demande se fait depuis l'application ou par courrier.
 
 Q : Quelle est la différence entre le Compte Essentiel et le Compte Premium ?
-R : Le Compte Essentiel coûte 3,90 € par mois et inclut la carte Orange Classic. Le Compte Premium coûte 12,90 € par mois, inclut la carte Orange Gold, les virements instantanés et les retraits gratuits dans tous les distributeurs de la zone euro, et offre un découvert autorisé plus élevé. Le Compte Premium est réservé aux clients qui domicilient au moins 1 800 € nets de revenus par mois.
+R : Le Compte Essentiel coûte 3,90 € par mois et inclut la carte Lagune Classic. Le Compte Premium coûte 12,90 € par mois, inclut la carte Lagune Gold, les virements instantanés et les retraits gratuits dans tous les distributeurs de la zone euro, et offre un découvert autorisé plus élevé. Le Compte Premium est réservé aux clients qui domicilient au moins 1 800 € nets de revenus par mois.
 
 Q : Comment fermer mon compte ?
 R : Depuis l'application ou par courrier. La clôture est gratuite et effective sous 10 jours ouvrés. Le solde est viré sur le compte bancaire que vous indiquez.
@@ -28,7 +28,7 @@ Q : Ma carte a été perdue ou volée. Que dois-je faire ?
 R : Faites opposition immédiatement, 24 h/24 et 7 j/7, depuis l'application (Cartes > Bloquer) ou au 0 800 123 457. L'opposition est définitive : la carte ne pourra pas être réactivée et une nouvelle carte sera fabriquée. Avant l'opposition, votre perte maximale est de 50 €.
 
 Q : Combien coûte le remplacement d'une carte ?
-R : Le remplacement coûte 10 € pour une carte Orange Classic (Compte Essentiel), 15 € pour une carte Orange Gold (Compte Premium) et 25 € pour une carte Orange Prestige. L'opposition elle-même est gratuite. Le détail figure dans la grille tarifaire.
+R : Le remplacement coûte 10 € pour une carte Lagune Classic (Compte Essentiel), 15 € pour une carte Lagune Gold (Compte Premium) et 25 € pour une carte Lagune Prestige. L'opposition elle-même est gratuite. Le détail figure dans la grille tarifaire.
 
 Q : En combien de temps vais-je recevoir ma nouvelle carte ?
 R : Une carte Classic ou Gold est expédiée sous 5 jours ouvrés, une carte Prestige sous 7 jours ouvrés. Si vous êtes pressé, l'envoi express en 48 heures est possible pour 20 €.
@@ -40,7 +40,7 @@ Q : Puis-je bloquer ma carte temporairement ?
 R : Oui, vous pouvez verrouiller et déverrouiller votre carte à volonté depuis l'application (Cartes > Verrouiller). Ce verrouillage est réversible, contrairement à l'opposition pour perte ou vol, qui est définitive.
 
 Q : Mon retrait à l'étranger me coûte-t-il des frais ?
-R : Dans la zone euro, les retraits dans les distributeurs Orange Bank sont gratuits. Hors zone euro, des frais s'appliquent : avec le Compte Essentiel, 3,00 € plus 2,5 % du montant retiré ; avec le Compte Premium, 1,00 € par retrait, sans commission de change. Les paiements par carte hors zone euro sont facturés 2,5 % du montant avec le Compte Essentiel et gratuits avec le Compte Premium.
+R : Dans la zone euro, les retraits dans les distributeurs Lagune Bank sont gratuits. Hors zone euro, des frais s'appliquent : avec le Compte Essentiel, 3,00 € plus 2,5 % du montant retiré ; avec le Compte Premium, 1,00 € par retrait, sans commission de change. Les paiements par carte hors zone euro sont facturés 2,5 % du montant avec le Compte Essentiel et gratuits avec le Compte Premium.
 
 Q : Combien de retraits gratuits ai-je dans les distributeurs d'autres banques en zone euro ?
 R : Avec le Compte Essentiel, 3 retraits gratuits par mois civil, puis 1,00 € par retrait supplémentaire. Avec le Compte Premium, les retraits sont gratuits et illimités.
@@ -71,15 +71,15 @@ Q : Un commerçant ne m'a jamais livré ma commande. Puis-je contester le paieme
 R : Oui, dans un délai de 120 jours à compter de la date de débit. Contactez d'abord le commerçant ; si le litige persiste, la Banque ouvre un dossier de contestation, instruit sous 30 jours calendaires.
 
 Q : Quelqu'un m'a appelé en se faisant passer pour ma banque et m'a demandé un code reçu par SMS. Est-ce normal ?
-R : Non. Orange Bank ne vous demande jamais votre code personnel ni vos codes à usage unique. Ne communiquez rien, raccrochez, et appelez le 0 800 123 456. Si vous avez déjà communiqué un code, bloquez votre carte immédiatement.
+R : Non. Lagune Bank ne vous demande jamais votre code personnel ni vos codes à usage unique. Ne communiquez rien, raccrochez, et appelez le 0 800 123 456. Si vous avez déjà communiqué un code, bloquez votre carte immédiatement.
 
 === ÉPARGNE ===
 
-Q : Quel est le taux du Livret Orange Épargne ?
+Q : Quel est le taux du Livret Lagune Épargne ?
 R : Le taux annuel brut est de 3,00 %, calculé par quinzaine et crédité chaque année le 31 décembre. Le plafond de dépôts est de 22 950 €.
 
 Q : Comment récupérer mon épargne ?
-R : Par un virement du livret vers votre compte courant Orange Bank, crédité sous 1 jour ouvré. Il n'y a aucun frais.
+R : Par un virement du livret vers votre compte courant Lagune Bank, crédité sous 1 jour ouvré. Il n'y a aucun frais.
 
 Q : Quel est le versement minimum sur le livret ?
 R : 10 € à l'ouverture et 10 € pour chaque versement ultérieur.

@@ -1,12 +1,12 @@
-ORANGE BANK — CONDITIONS GÉNÉRALES D'UTILISATION (CGU)
+LAGUNE BANK — CONDITIONS GÉNÉRALES D'UTILISATION (CGU)
 Version en vigueur au 1er janvier 2026
-Document fictif, rédigé à des fins pédagogiques. Orange Bank n'est pas un établissement réel.
+Document fictif, rédigé à des fins pédagogiques. Lagune Bank n'est pas un établissement réel.
 
 Article 1 — Objet et définitions
-Les présentes CGU régissent la relation entre Orange Bank (« la Banque ») et toute personne physique titulaire d'un produit ou service de la Banque (« le Client »). Elles complètent la grille tarifaire, les fiches produits et les conditions particulières. Les produits proposés sont : le Compte Courant Orange Essentiel (« Compte Essentiel »), le Compte Premium, le Livret Orange Épargne, ainsi que les cartes bancaires Orange Classic, Orange Gold et Orange Prestige.
+Les présentes CGU régissent la relation entre Lagune Bank (« la Banque ») et toute personne physique titulaire d'un produit ou service de la Banque (« le Client »). Elles complètent la grille tarifaire, les fiches produits et les conditions particulières. Les produits proposés sont : le Compte Courant Lagune Essentiel (« Compte Essentiel »), le Compte Premium, le Livret Lagune Épargne, ainsi que les cartes bancaires Lagune Classic, Lagune Gold et Lagune Prestige.
 
 Article 2 — Conditions d'accès
-Pour ouvrir un compte, le Client doit être majeur (18 ans révolus), résider fiscalement en France et fournir une pièce d'identité en cours de validité ainsi qu'un justificatif de domicile de moins de 3 mois. L'accès au Compte Premium est soumis à la domiciliation de revenus d'au moins 1 800 € nets par mois. La carte Orange Prestige est réservée aux titulaires d'un Compte Premium.
+Pour ouvrir un compte, le Client doit être majeur (18 ans révolus), résider fiscalement en France et fournir une pièce d'identité en cours de validité ainsi qu'un justificatif de domicile de moins de 3 mois. L'accès au Compte Premium est soumis à la domiciliation de revenus d'au moins 1 800 € nets par mois. La carte Lagune Prestige est réservée aux titulaires d'un Compte Premium.
 
 Article 3 — Ouverture de compte et droit de rétractation
 La demande d'ouverture est effectuée à distance. L'identité du Client est vérifiée par un échange vidéo ; la Banque communique sa décision sous 48 heures. Le Client dispose d'un délai de rétractation de 14 jours calendaires à compter de la conclusion du contrat, sans pénalité et sans avoir à justifier sa décision. La rétractation s'exerce depuis l'application ou par courrier adressé au Service Client.
@@ -18,7 +18,7 @@ Article 5 — Compte courant et découvert
 Le Compte Essentiel est facturé 3,90 € par mois et le Compte Premium 12,90 € par mois. Un découvert autorisé peut être accordé sur demande, après étude de la situation du Client : 500 € maximum pour le Compte Essentiel (taux débiteur annuel de 16,90 %) et 1 500 € maximum pour le Compte Premium (taux débiteur annuel de 12,90 %). Toute opération présentée au-delà du découvert autorisé est susceptible d'être rejetée et donne lieu à une commission d'intervention prévue par la grille tarifaire, plafonnée chaque mois.
 
 Article 6 — Cartes bancaires
-Chaque carte est strictement personnelle. Les plafonds par défaut sont les suivants : carte Orange Classic, 1 500 € de paiements par période de 30 jours glissants et 500 € de retraits par période de 7 jours glissants ; carte Orange Gold, 5 000 € de paiements par 30 jours et 1 000 € de retraits par 7 jours ; carte Orange Prestige, 15 000 € de paiements par 30 jours et 2 000 € de retraits par 7 jours. Le paiement sans contact est limité à 50 € par opération. Une carte est fabriquée et expédiée sous 5 jours ouvrés (7 jours ouvrés pour la carte Prestige). Le Client peut demander un envoi express en 48 heures moyennant des frais prévus par la grille tarifaire.
+Chaque carte est strictement personnelle. Les plafonds par défaut sont les suivants : carte Lagune Classic, 1 500 € de paiements par période de 30 jours glissants et 500 € de retraits par période de 7 jours glissants ; carte Lagune Gold, 5 000 € de paiements par 30 jours et 1 000 € de retraits par 7 jours ; carte Lagune Prestige, 15 000 € de paiements par 30 jours et 2 000 € de retraits par 7 jours. Le paiement sans contact est limité à 50 € par opération. Une carte est fabriquée et expédiée sous 5 jours ouvrés (7 jours ouvrés pour la carte Prestige). Le Client peut demander un envoi express en 48 heures moyennant des frais prévus par la grille tarifaire.
 
 Article 7 — Perte, vol et opposition
 En cas de perte, de vol, de détournement ou de contrefaçon de sa carte, le Client doit faire opposition sans délai, 24 heures sur 24 et 7 jours sur 7, depuis l'application (menu Cartes > Bloquer) ou en appelant le 0 800 123 457. L'opposition est immédiate et définitive : une carte bloquée pour perte ou vol ne peut pas être réactivée et une nouvelle carte est fabriquée. Avant l'opposition, le Client supporte les pertes liées à l'utilisation de la carte perdue ou volée dans la limite de 50 €. Après l'opposition, il ne supporte plus aucune perte, sauf agissement frauduleux de sa part.
@@ -35,8 +35,8 @@ Un virement SEPA standard est exécuté sous 1 jour ouvré lorsqu'il est validé
 Article 11 — Prélèvements SEPA
 Le Client peut s'opposer à un prélèvement avant la date d'échéance, depuis l'application. Pour un prélèvement qu'il avait autorisé, il peut demander le remboursement dans un délai de 8 semaines à compter du débit, sans avoir à se justifier. Pour un prélèvement non autorisé, le délai de signalement est de 13 mois (voir article 8).
 
-Article 12 — Livret Orange Épargne
-Le Livret Orange Épargne est rémunéré au taux annuel brut de 3,00 %, calculé par quinzaine et crédité chaque année le 31 décembre. Le plafond de dépôts est de 22 950 €. Le versement initial minimum est de 10 €, de même que chaque versement ultérieur. Les retraits s'effectuent uniquement par virement vers un compte courant du Client ouvert chez Orange Bank, crédité sous 1 jour ouvré. Le livret n'est assorti d'aucun frais de tenue de compte.
+Article 12 — Livret Lagune Épargne
+Le Livret Lagune Épargne est rémunéré au taux annuel brut de 3,00 %, calculé par quinzaine et crédité chaque année le 31 décembre. Le plafond de dépôts est de 22 950 €. Le versement initial minimum est de 10 €, de même que chaque versement ultérieur. Les retraits s'effectuent uniquement par virement vers un compte courant du Client ouvert chez Lagune Bank, crédité sous 1 jour ouvré. Le livret n'est assorti d'aucun frais de tenue de compte.
 
 Article 13 — Sécurité et authentification
 L'accès à l'application et la validation des opérations sensibles reposent sur une authentification forte (code personnel à 6 chiffres associé à la reconnaissance du téléphone ou biométrique). Après 5 tentatives erronées du code personnel, l'accès est bloqué ; le déblocage est effectué par le Service Client après vérification d'identité, dans un délai de 24 heures. La Banque ne demande jamais au Client son code personnel ni ses codes à usage unique, ni par téléphone ni par e-mail.
@@ -45,7 +45,7 @@ Article 14 — Responsabilité du Client
 Le Client prend toutes les mesures pour préserver la sécurité de ses dispositifs d'authentification. Il informe sans délai la Banque de tout changement de coordonnées (adresse, téléphone, e-mail) en fournissant, pour une nouvelle adresse, un justificatif de domicile de moins de 3 mois. Une négligence grave du Client (communication volontaire de son code à un tiers, par exemple) peut engager sa responsabilité pour les opérations frauduleuses.
 
 Article 15 — Réclamations et médiation
-Toute réclamation peut être adressée au Service Client (application, 0 800 123 456, ou courrier). La Banque accuse réception sous 10 jours ouvrés et apporte une réponse sous 15 jours ouvrés. Si le désaccord persiste, ou en l'absence de réponse satisfaisante sous 2 mois, le Client peut saisir gratuitement le médiateur bancaire dont les coordonnées figurent sur le site orangebank.example.
+Toute réclamation peut être adressée au Service Client (application, 0 800 123 456, ou courrier). La Banque accuse réception sous 10 jours ouvrés et apporte une réponse sous 15 jours ouvrés. Si le désaccord persiste, ou en l'absence de réponse satisfaisante sous 2 mois, le Client peut saisir gratuitement le médiateur bancaire dont les coordonnées figurent sur le site lagunebank.example.
 
 Article 16 — Protection des données personnelles
 La Banque traite les données du Client pour la gestion de la relation bancaire, la sécurité des opérations et le respect de ses obligations légales (lutte contre le blanchiment, notamment). Les données sont conservées pendant la durée de la relation puis 5 ans après la clôture du compte. Le Client dispose d'un droit d'accès, de rectification, d'effacement dans les limites légales, d'opposition et de portabilité, exercé via l'application ou le Délégué à la protection des données.

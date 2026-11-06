@@ -10,8 +10,8 @@ from __future__ import annotations
 import logging
 from typing import Any
 
-from orange_bank_agent.config import get_langfuse, settings
-from orange_bank_agent.schemas import ToolCallRecord
+from lagune_bank_agent.config import get_langfuse, settings
+from lagune_bank_agent.schemas import ToolCallRecord
 
 log = logging.getLogger(__name__)
 
@@ -40,7 +40,7 @@ def _last_ai_text(graph, config) -> str:
     return str(messages[-1].content) if messages else ""
 
 
-@_observe(name="orange-bank-agent", capture_input=False, capture_output=False)
+@_observe(name="lagune-bank-agent", capture_input=False, capture_output=False)
 def invoke_traced(graph, graph_input: Any, thread_id: str) -> str | None:
     """Exécute le graphe pour un tour de conversation et retourne le `trace_id`
     Langfuse (ou None si le tracing est désactivé).

@@ -4,7 +4,7 @@
 automatiquement autour de chaque tour dès qu'elles ne sont plus des stubs :
 la CLI et l'UI affichent les événements de garde-fou déclenchés.
 """
-from orange_bank_agent.schemas import GuardrailResult, ToolCallRecord
+from lagune_bank_agent.schemas import GuardrailResult, ToolCallRecord
 
 
 def check_input(user_message: str) -> GuardrailResult:

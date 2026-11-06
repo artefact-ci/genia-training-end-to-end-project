@@ -5,7 +5,7 @@ Le wrapper LangChain `estimate_fees` est FOURNI.
 """
 from langchain_core.tools import tool
 
-from orange_bank_agent.schemas import FeeResult
+from lagune_bank_agent.schemas import FeeResult
 
 ACCOUNT_TYPES = ("essentiel", "premium")
 
@@ -38,7 +38,7 @@ def calculate_fee(
     amount: float = 0.0,
     quantity: int = 1,
 ) -> FeeResult:
-    """Calcule les frais d'une opération selon la grille tarifaire Orange Bank.
+    """Calcule les frais d'une opération selon la grille tarifaire Lagune Bank.
 
     Entrées
     -------
@@ -84,7 +84,7 @@ def calculate_fee(
 def estimate_fees(
     operation: str, account_type: str, amount: float = 0.0, quantity: int = 1
 ) -> tuple[str, dict]:
-    """Calcule le montant exact des frais bancaires d'une opération (tarification Orange Bank).
+    """Calcule le montant exact des frais bancaires d'une opération (tarification Lagune Bank).
     Arguments : operation (code, parmi : account_maintenance, card_replacement,
     card_express_delivery, prestige_card_annual, prestige_card_replacement,
     atm_withdrawal_euro_other_bank, atm_withdrawal_non_euro, card_payment_non_euro,

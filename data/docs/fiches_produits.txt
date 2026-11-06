@@ -1,13 +1,13 @@
-ORANGE BANK — FICHES PRODUITS
+LAGUNE BANK — FICHES PRODUITS
 Version en vigueur au 1er janvier 2026
 Document fictif, rédigé à des fins pédagogiques. Les prix s'entendent en euros TTC.
 
 =====================================================================
-FICHE PRODUIT 1 — COMPTE COURANT ORANGE ESSENTIEL
+FICHE PRODUIT 1 — COMPTE COURANT LAGUNE ESSENTIEL
 =====================================================================
 
 Présentation
-Le Compte Courant Orange Essentiel est le compte du quotidien d'Orange Bank : simple, sans condition de revenus, entièrement géré depuis l'application mobile.
+Le Compte Courant Lagune Essentiel est le compte du quotidien d'Lagune Bank : simple, sans condition de revenus, entièrement géré depuis l'application mobile.
 
 Public visé et conditions d'accès
 Personne physique majeure (18 ans révolus), résidant fiscalement en France. Aucune condition de revenus. Pièces à fournir : pièce d'identité en cours de validité et justificatif de domicile de moins de 3 mois. Réponse de la Banque sous 48 heures. Droit de rétractation de 14 jours calendaires.
@@ -16,9 +16,9 @@ Tarif
 Tenue de compte : 3,90 € par mois. L'ouverture et la clôture sont gratuites.
 
 Ce qui est inclus
-- La carte de débit Orange Classic (paiement à débit immédiat), avec un plafond de 1 500 € de paiements par 30 jours glissants et 500 € de retraits par 7 jours glissants.
+- La carte de débit Lagune Classic (paiement à débit immédiat), avec un plafond de 1 500 € de paiements par 30 jours glissants et 500 € de retraits par 7 jours glissants.
 - Les virements SEPA standard gratuits (plafond de 5 000 € par jour).
-- Les retraits gratuits dans les distributeurs Orange Bank, et 3 retraits gratuits par mois civil dans les distributeurs d'autres banques de la zone euro (1,00 € par retrait au-delà).
+- Les retraits gratuits dans les distributeurs Lagune Bank, et 3 retraits gratuits par mois civil dans les distributeurs d'autres banques de la zone euro (1,00 € par retrait au-delà).
 - Les relevés électroniques gratuits.
 
 Options et limites
@@ -42,7 +42,7 @@ Tarif
 Tenue de compte : 12,90 € par mois. L'ouverture et la clôture sont gratuites.
 
 Ce qui est inclus
-- La carte Orange Gold (paiement à débit immédiat), avec un plafond de 5 000 € de paiements par 30 jours glissants et 1 000 € de retraits par 7 jours glissants.
+- La carte Lagune Gold (paiement à débit immédiat), avec un plafond de 5 000 € de paiements par 30 jours glissants et 1 000 € de retraits par 7 jours glissants.
 - Les virements SEPA standard et les virements instantanés gratuits (plafond de 15 000 € par jour).
 - Les retraits gratuits et illimités dans tous les distributeurs de la zone euro.
 - Les paiements par carte gratuits hors zone euro (aucune commission) ; retraits hors zone euro à 1,00 € par retrait.
@@ -52,15 +52,15 @@ Ce qui est inclus
 - Une commission d'intervention de 5 € par opération, plafonnée à 50 € par mois.
 
 Options
-- Carte Orange Prestige (voir fiche 4), réservée aux titulaires du Compte Premium.
+- Carte Lagune Prestige (voir fiche 4), réservée aux titulaires du Compte Premium.
 - Remplacement de la carte Gold : 15 €.
 
 =====================================================================
-FICHE PRODUIT 3 — LIVRET ORANGE ÉPARGNE
+FICHE PRODUIT 3 — LIVRET LAGUNE ÉPARGNE
 =====================================================================
 
 Présentation
-Le Livret Orange Épargne est un livret d'épargne disponible à tout moment, ouvert depuis l'application à tout titulaire d'un compte courant Orange Bank.
+Le Livret Lagune Épargne est un livret d'épargne disponible à tout moment, ouvert depuis l'application à tout titulaire d'un compte courant Lagune Bank.
 
 Caractéristiques
 - Taux annuel brut : 3,00 %, calculé par quinzaine, intérêts crédités le 31 décembre de chaque année.
@@ -69,7 +69,7 @@ Caractéristiques
 - Aucun frais de tenue de compte, aucun frais de versement ni de retrait.
 
 Disponibilité des fonds
-Les retraits se font uniquement par virement vers le compte courant Orange Bank du titulaire. Les fonds sont crédités sous 1 jour ouvré. Il n'existe ni carte, ni chéquier, ni prélèvement associés au livret.
+Les retraits se font uniquement par virement vers le compte courant Lagune Bank du titulaire. Les fonds sont crédités sous 1 jour ouvré. Il n'existe ni carte, ni chéquier, ni prélèvement associés au livret.
 
 Public visé
 Personne physique majeure résidant fiscalement en France, titulaire d'un Compte Essentiel ou d'un Compte Premium. Un seul livret par client. Droit de rétractation de 14 jours calendaires.
@@ -78,11 +78,11 @@ Personne physique majeure résidant fiscalement en France, titulaire d'un Compte
 Le taux peut évoluer ; toute baisse est notifiée au client. La fiscalité applicable aux intérêts dépend de la situation du client (fiche fiscale transmise chaque année).
 
 =====================================================================
-FICHE PRODUIT 4 — CARTE ORANGE PRESTIGE (CARTE HAUT DE GAMME)
+FICHE PRODUIT 4 — CARTE LAGUNE PRESTIGE (CARTE HAUT DE GAMME)
 =====================================================================
 
 Présentation
-La carte Orange Prestige est la carte haut de gamme d'Orange Bank, conçue pour les clients voyageurs et pour les dépenses élevées.
+La carte Lagune Prestige est la carte haut de gamme d'Lagune Bank, conçue pour les clients voyageurs et pour les dépenses élevées.
 
 Conditions d'accès
 Réservée aux titulaires d'un Compte Premium (elle ne peut pas être souscrite avec un Compte Essentiel). Souscription depuis l'application.

@@ -12,12 +12,12 @@ import sys
 
 from langchain_core.tools import BaseTool
 
-from orange_bank_agent.stubs import is_stub
+from lagune_bank_agent.stubs import is_stub
 
 TOOL_MODULES = (
-    "orange_bank_agent.tools.rag_tool",
-    "orange_bank_agent.tools.fee_calculator",
-    "orange_bank_agent.tools.transaction_tool",
+    "lagune_bank_agent.tools.rag_tool",
+    "lagune_bank_agent.tools.fee_calculator",
+    "lagune_bank_agent.tools.transaction_tool",
 )
 
 

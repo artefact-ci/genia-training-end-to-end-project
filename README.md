@@ -1,6 +1,6 @@
-# Orange Bank Agent
+# Lagune Bank Agent
 
-Un agent bancaire basé sur **LangGraph / LangChain**, pour la banque fictive *Orange Bank*. Il répond aux questions de clients à partir d'une documentation interne (CGU, FAQ, fiches produits, grille de frais, procédures) et peut exécuter des actions métier **simulées**.
+Un agent bancaire basé sur **LangGraph / LangChain**, pour la banque fictive *Lagune Bank*. Il répond aux questions de clients à partir d'une documentation interne (CGU, FAQ, fiches produits, grille de frais, procédures) et peut exécuter des actions métier **simulées**.
 
 Le projet fournit une **base qui fonctionne de bout en bout** (Brique 0). Vous la complétez ensuite brique par brique : le code livré contient des signatures et des **contrats** (docstrings) ; la façon d'y arriver vous appartient.
 
@@ -22,10 +22,10 @@ Le projet fournit une **base qui fonctionne de bout en bout** (Brique 0). Vous l
 ### Fichiers
 
 ```
-orange-bank-agent/
+lagune-bank-agent/
 ├── README.md  .env.example  pyproject.toml
 ├── data/docs/                      cgu · faq · fiches_produits · grille_frais · procedures (.txt)
-├── src/orange_bank_agent/
+├── src/lagune_bank_agent/
 │   ├── config.py                   FOURNI   .env, client chat/embeddings LiteLLM, client Langfuse
 │   ├── ingestion.py                FOURNI   chunking + indexation Chroma (python -m …ingestion)
 │   ├── guardrails.py               BRIQUE 8 (garde-fous, branchés dans runner.py)
@@ -153,14 +153,14 @@ Les noms de modèles suivent le format LiteLLM (par exemple `gemini/<modèle>` o
 **Indexer la documentation (une fois)** — si vous l'oubliez, la première recherche (Brique 1) indexe automatiquement :
 
 ```bash
-uv run python -m orange_bank_agent.ingestion
+uv run python -m lagune_bank_agent.ingestion
 ```
 
 **Lancer l'agent** — les deux interfaces fonctionnent dès maintenant, sans rien implémenter :
 
 ```bash
-uv run python -m orange_bank_agent.main                        # CLI  (/new, /quit)
-uv run streamlit run src/orange_bank_agent/ui/app.py           # interface web
+uv run python -m lagune_bank_agent.main                        # CLI  (/new, /quit)
+uv run streamlit run src/lagune_bank_agent/ui/app.py           # interface web
 ```
 
 L'UI affiche, sous chaque réponse, les **outils appelés** et les **sources citées** (quand le RAG est utilisé), et gère les demandes de confirmation (Brique 3). Après avoir modifié le code d'une brique, relancez la CLI ou Streamlit.
@@ -201,7 +201,7 @@ Astuce : `graph.get_graph().draw_mermaid()` affiche votre graphe sous forme de s
 **Objectif.** Voir un système complet fonctionner avant de le démonter : un graphe LangGraph à un noeud, des appels LLM via LiteLLM, un tracing Langfuse, une base Chroma indexée.
 **Fichiers.** Tout est fourni : `config.py`, `ingestion.py`, `graph/agent_graph.py` (`build_minimal_graph`), `main.py`, `ui/app.py`, `observability/tracing.py`.
 **À observer.**
-- `uv run python -m orange_bank_agent.ingestion` indexe les 5 documents sans erreur.
+- `uv run python -m lagune_bank_agent.ingestion` indexe les 5 documents sans erreur.
 - La CLI et Streamlit répondent à « Bonjour, que peux-tu faire ? ».
 - Interrogé sur un tarif précis, l'agent n'a pas d'outil : constatez comment il se comporte (devine-t-il ? avoue-t-il ne pas savoir ?). C'est le point de départ à améliorer.
 - Une trace apparaît dans Langfuse (si les clés sont renseignées).
@@ -349,6 +349,6 @@ Astuce : `graph.get_graph().draw_mermaid()` affiche votre graphe sous forme de s
 
 ## 5. Dépannage rapide
 - *« LLM_API_KEY n'est pas renseignée »* : créez `.env` à partir de `.env.example`.
-- *Aucune source affichée* : vérifiez que l'index est construit (`uv run python -m orange_bank_agent.ingestion`) et que `retrieve` est implémentée.
+- *Aucune source affichée* : vérifiez que l'index est construit (`uv run python -m lagune_bank_agent.ingestion`) et que `retrieve` est implémentée.
 - *Pas de trace Langfuse* : clés `LANGFUSE_*` renseignées ? `LANGFUSE_HOST` correct ?
 - *Streamlit ne reflète pas mon code* : relancez-le.

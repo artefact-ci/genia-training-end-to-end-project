@@ -1,18 +1,18 @@
 """CLI de l'agent — FOURNI, FONCTIONNEL dès la Brique 0.
 
-Lancement :  python -m orange_bank_agent.main
+Lancement :  python -m lagune_bank_agent.main
 Commandes :  /new (nouvelle conversation), /quit
 """
 from __future__ import annotations
 
 import uuid
 
-from orange_bank_agent.config import settings
-from orange_bank_agent.graph.agent_graph import build_graph
-from orange_bank_agent.observability.tracing import flush_traces
-from orange_bank_agent.runner import ask, resume
-from orange_bank_agent.schemas import AgentResult
-from orange_bank_agent.tools import tool_status
+from lagune_bank_agent.config import settings
+from lagune_bank_agent.graph.agent_graph import build_graph
+from lagune_bank_agent.observability.tracing import flush_traces
+from lagune_bank_agent.runner import ask, resume
+from lagune_bank_agent.schemas import AgentResult
+from lagune_bank_agent.tools import tool_status
 
 YES = {"o", "oui", "y", "yes"}
 
@@ -21,7 +21,7 @@ def _banner() -> None:
     status = tool_status()
     active = [name for name, ok in status.items() if ok] or ["aucun"]
     print("=" * 60)
-    print(" Orange Bank — assistant virtuel (CLI)")
+    print(" Lagune Bank — assistant virtuel (CLI)")
     print(f" Modèle     : {settings.chat_model}")
     print(f" Outils     : {', '.join(active)}")
     print(f" Langfuse   : {'actif' if settings.langfuse_enabled else 'désactivé (clés absentes)'}")

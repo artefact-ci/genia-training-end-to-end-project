@@ -7,7 +7,7 @@ demandé par le README.
 """
 from langchain_core.tools import tool
 
-from orange_bank_agent.schemas import ActionResult
+from lagune_bank_agent.schemas import ActionResult
 
 # Données de démonstration (lecture seule : copiez-les, ne les mutez pas).
 SEED_CARDS = {

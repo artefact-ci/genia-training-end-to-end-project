@@ -11,11 +11,11 @@ from langgraph.checkpoint.memory import MemorySaver
 from langgraph.graph import END, START, StateGraph
 from langgraph.prebuilt import ToolNode, tools_condition
 
-from orange_bank_agent.config import get_chat_model
-from orange_bank_agent.graph.state import AgentState
-from orange_bank_agent.prompts import SYSTEM_PROMPT
-from orange_bank_agent.stubs import is_stub
-from orange_bank_agent.tools import load_tools
+from lagune_bank_agent.config import get_chat_model
+from lagune_bank_agent.graph.state import AgentState
+from lagune_bank_agent.prompts import SYSTEM_PROMPT
+from lagune_bank_agent.stubs import is_stub
+from lagune_bank_agent.tools import load_tools
 
 
 def build_minimal_graph(checkpointer=None):

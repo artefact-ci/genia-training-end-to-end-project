@@ -7,7 +7,7 @@ from typing import Callable
 
 from langchain_core.tools import tool
 
-from orange_bank_agent.schemas import Chunk
+from lagune_bank_agent.schemas import Chunk
 
 DEFAULT_TOP_K = 4
 
@@ -55,7 +55,7 @@ def retrieve(
     -----------
     - appeler un LLM de chat pour générer ou reformuler une réponse ;
     - passer par un SDK de fournisseur : les embeddings viennent de
-      `orange_bank_agent.config` (LiteLLM) ;
+      `lagune_bank_agent.config` (LiteLLM) ;
     - modifier l'index ni réindexer à chaque appel ;
     - dépendre de l'état d'un appel précédent.
     """
@@ -64,7 +64,7 @@ def retrieve(
 
 @tool("search_documentation", response_format="content_and_artifact")
 def search_documentation(question: str) -> tuple[str, list[dict]]:
-    """Recherche dans la documentation interne d'Orange Bank (CGU, FAQ, fiches produits,
+    """Recherche dans la documentation interne d'Lagune Bank (CGU, FAQ, fiches produits,
     grille tarifaire, procédures) et retourne les passages pertinents avec leur source.
     À utiliser pour toute question sur les conditions, délais, plafonds, procédures
     ou caractéristiques des produits. Argument : la question du client, reformulée
