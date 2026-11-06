@@ -1,0 +1,104 @@
+ORANGE BANK — FOIRE AUX QUESTIONS (FAQ) CLIENTS
+Version en vigueur au 1er janvier 2026
+Document fictif, rédigé à des fins pédagogiques.
+
+=== OUVERTURE ET GESTION DU COMPTE ===
+
+Q : Comment ouvrir un compte chez Orange Bank ?
+R : L'ouverture se fait entièrement depuis l'application. Il faut être majeur, résider fiscalement en France, et fournir une pièce d'identité en cours de validité et un justificatif de domicile de moins de 3 mois. Une vérification d'identité par vidéo est réalisée, et vous recevez la décision de la Banque sous 48 heures.
+
+Q : Puis-je changer d'avis après l'ouverture de mon compte ?
+R : Oui. Vous disposez d'un délai de rétractation de 14 jours calendaires à compter de la conclusion du contrat, sans pénalité ni justification. La demande se fait depuis l'application ou par courrier.
+
+Q : Quelle est la différence entre le Compte Essentiel et le Compte Premium ?
+R : Le Compte Essentiel coûte 3,90 € par mois et inclut la carte Orange Classic. Le Compte Premium coûte 12,90 € par mois, inclut la carte Orange Gold, les virements instantanés et les retraits gratuits dans tous les distributeurs de la zone euro, et offre un découvert autorisé plus élevé. Le Compte Premium est réservé aux clients qui domicilient au moins 1 800 € nets de revenus par mois.
+
+Q : Comment fermer mon compte ?
+R : Depuis l'application ou par courrier. La clôture est gratuite et effective sous 10 jours ouvrés. Le solde est viré sur le compte bancaire que vous indiquez.
+
+Q : J'ai déménagé. Comment mettre à jour mon adresse ?
+R : Dans l'application (Profil > Mes informations), en joignant un justificatif de domicile de moins de 3 mois. La modification est traitée sous 5 jours ouvrés.
+
+Q : J'ai oublié mon code personnel ou je l'ai saisi 5 fois de manière erronée. Que faire ?
+R : L'accès est bloqué après 5 tentatives erronées. Contactez le Service Client au 0 800 123 456 : après vérification de votre identité, l'accès est rétabli dans un délai de 24 heures.
+
+=== CARTES BANCAIRES ===
+
+Q : Ma carte a été perdue ou volée. Que dois-je faire ?
+R : Faites opposition immédiatement, 24 h/24 et 7 j/7, depuis l'application (Cartes > Bloquer) ou au 0 800 123 457. L'opposition est définitive : la carte ne pourra pas être réactivée et une nouvelle carte sera fabriquée. Avant l'opposition, votre perte maximale est de 50 €.
+
+Q : Combien coûte le remplacement d'une carte ?
+R : Le remplacement coûte 10 € pour une carte Orange Classic (Compte Essentiel), 15 € pour une carte Orange Gold (Compte Premium) et 25 € pour une carte Orange Prestige. L'opposition elle-même est gratuite. Le détail figure dans la grille tarifaire.
+
+Q : En combien de temps vais-je recevoir ma nouvelle carte ?
+R : Une carte Classic ou Gold est expédiée sous 5 jours ouvrés, une carte Prestige sous 7 jours ouvrés. Si vous êtes pressé, l'envoi express en 48 heures est possible pour 20 €.
+
+Q : Quels sont les plafonds de ma carte ?
+R : Carte Classic : 1 500 € de paiements par 30 jours glissants et 500 € de retraits par 7 jours glissants. Carte Gold : 5 000 € et 1 000 €. Carte Prestige : 15 000 € et 2 000 €. Le sans contact est limité à 50 € par opération.
+
+Q : Puis-je bloquer ma carte temporairement ?
+R : Oui, vous pouvez verrouiller et déverrouiller votre carte à volonté depuis l'application (Cartes > Verrouiller). Ce verrouillage est réversible, contrairement à l'opposition pour perte ou vol, qui est définitive.
+
+Q : Mon retrait à l'étranger me coûte-t-il des frais ?
+R : Dans la zone euro, les retraits dans les distributeurs Orange Bank sont gratuits. Hors zone euro, des frais s'appliquent : avec le Compte Essentiel, 3,00 € plus 2,5 % du montant retiré ; avec le Compte Premium, 1,00 € par retrait, sans commission de change. Les paiements par carte hors zone euro sont facturés 2,5 % du montant avec le Compte Essentiel et gratuits avec le Compte Premium.
+
+Q : Combien de retraits gratuits ai-je dans les distributeurs d'autres banques en zone euro ?
+R : Avec le Compte Essentiel, 3 retraits gratuits par mois civil, puis 1,00 € par retrait supplémentaire. Avec le Compte Premium, les retraits sont gratuits et illimités.
+
+=== PAIEMENTS, VIREMENTS ET PRÉLÈVEMENTS ===
+
+Q : Combien de temps prend un virement ?
+R : Un virement SEPA standard est exécuté sous 1 jour ouvré s'il est validé avant 16 h (heure de Paris). Un virement instantané est reçu en moins de 10 secondes, à toute heure. Un virement international prend de 3 à 5 jours ouvrés.
+
+Q : Quels sont les plafonds de virement ?
+R : 5 000 € par jour avec le Compte Essentiel, 15 000 € par jour avec le Compte Premium.
+
+Q : Les virements sont-ils payants ?
+R : Les virements SEPA standard sont gratuits. Le virement instantané coûte 0,90 € avec le Compte Essentiel et est gratuit avec le Compte Premium. Un virement international coûte 15 € avec le Compte Essentiel et 8 € avec le Compte Premium.
+
+Q : Puis-je annuler un virement déjà validé ?
+R : Non. Un virement validé ne peut plus être annulé. En cas d'erreur de destinataire, contactez le Service Client pour demander un rappel de fonds, sans garantie de résultat.
+
+Q : Un prélèvement a été effectué sans mon accord. Que faire ?
+R : Signalez-le dans l'application dans un délai maximum de 13 mois après le débit. Un dossier de contestation sera ouvert. Pour un prélèvement que vous aviez autorisé, vous pouvez en demander le remboursement dans un délai de 8 semaines à compter du débit.
+
+=== FRAUDE ET CONTESTATIONS ===
+
+Q : Je constate un paiement par carte que je n'ai pas fait. Sous quel délai serai-je remboursé ?
+R : Signalez l'opération le plus vite possible (délai maximum : 13 mois après le débit). Sauf suspicion de fraude de votre part, vous êtes remboursé au plus tard à la fin du premier jour ouvré suivant votre signalement. Un dossier de contestation est ouvert et instruit sous 30 jours calendaires.
+
+Q : Un commerçant ne m'a jamais livré ma commande. Puis-je contester le paiement ?
+R : Oui, dans un délai de 120 jours à compter de la date de débit. Contactez d'abord le commerçant ; si le litige persiste, la Banque ouvre un dossier de contestation, instruit sous 30 jours calendaires.
+
+Q : Quelqu'un m'a appelé en se faisant passer pour ma banque et m'a demandé un code reçu par SMS. Est-ce normal ?
+R : Non. Orange Bank ne vous demande jamais votre code personnel ni vos codes à usage unique. Ne communiquez rien, raccrochez, et appelez le 0 800 123 456. Si vous avez déjà communiqué un code, bloquez votre carte immédiatement.
+
+=== ÉPARGNE ===
+
+Q : Quel est le taux du Livret Orange Épargne ?
+R : Le taux annuel brut est de 3,00 %, calculé par quinzaine et crédité chaque année le 31 décembre. Le plafond de dépôts est de 22 950 €.
+
+Q : Comment récupérer mon épargne ?
+R : Par un virement du livret vers votre compte courant Orange Bank, crédité sous 1 jour ouvré. Il n'y a aucun frais.
+
+Q : Quel est le versement minimum sur le livret ?
+R : 10 € à l'ouverture et 10 € pour chaque versement ultérieur.
+
+=== DÉCOUVERT ET INCIDENTS ===
+
+Q : Puis-je être à découvert ?
+R : Sur demande et après étude de votre dossier : jusqu'à 500 € avec le Compte Essentiel (taux débiteur de 16,90 % par an) et jusqu'à 1 500 € avec le Compte Premium (taux de 12,90 % par an).
+
+Q : Qu'est-ce que la commission d'intervention ?
+R : C'est la somme facturée lorsqu'une opération irrégulière est présentée sur votre compte (par exemple, un prélèvement rejeté faute de provision). Elle est de 8 € par opération avec le Compte Essentiel (plafonnée à 80 € par mois) et de 5 € par opération avec le Compte Premium (plafonnée à 50 € par mois).
+
+=== SERVICE CLIENT ET RÉCLAMATIONS ===
+
+Q : Comment joindre le Service Client ?
+R : Par le chat de l'application ou par téléphone au 0 800 123 456 (numéro gratuit), du lundi au samedi de 8 h à 20 h. L'opposition de carte reste joignable 24 h/24 et 7 j/7 au 0 800 123 457.
+
+Q : Comment faire une réclamation ?
+R : Via l'application, par téléphone ou par courrier. Vous recevez un accusé de réception sous 10 jours ouvrés et une réponse sous 15 jours ouvrés. Si le désaccord persiste ou en l'absence de réponse satisfaisante sous 2 mois, vous pouvez saisir gratuitement le médiateur bancaire.
+
+Q : Puis-je recevoir mes relevés sur papier ?
+R : Oui, mais cette option est facturée 1,50 € par relevé. Les relevés électroniques sont gratuits.

@@ -1,0 +1,77 @@
+ORANGE BANK — GRILLE TARIFAIRE
+Tarifs en euros TTC, en vigueur au 1er janvier 2026
+Document fictif, rédigé à des fins pédagogiques.
+
+Légende : « Essentiel » = Compte Courant Orange Essentiel (carte Classic). « Premium » = Compte Premium (carte Gold). Le tarif d'une opération dépend du compte du client.
+
+-------------------------------------------------------------------
+1. TENUE DE COMPTE ET CARTES
+-------------------------------------------------------------------
+Opération                                          | Essentiel        | Premium
+Ouverture de compte                                | Gratuit          | Gratuit
+Tenue de compte (par mois)                         | 3,90 €           | 12,90 €
+Clôture de compte                                  | Gratuit          | Gratuit
+Carte Orange Classic (incluse dans Essentiel)      | Incluse          | -
+Carte Orange Gold (incluse dans Premium)           | -                | Incluse
+Carte Orange Prestige (cotisation annuelle)        | Non disponible   | 149 € par an
+Remplacement de carte Classic / Gold               | 10 €             | 15 €
+Remplacement de carte Prestige                     | Non disponible   | 25 €
+Envoi express de la carte en 48 heures             | 20 €             | 20 €
+Opposition (perte, vol) de la carte                | Gratuit          | Gratuit
+
+Précisions : le remplacement est facturé que la carte soit perdue, volée ou détériorée. L'envoi express se cumule avec le remplacement. Sans envoi express, la carte Classic ou Gold est livrée sous 5 jours ouvrés et la carte Prestige sous 7 jours ouvrés.
+
+-------------------------------------------------------------------
+2. RETRAITS ET PAIEMENTS PAR CARTE
+-------------------------------------------------------------------
+Opération                                          | Essentiel        | Premium
+Paiement par carte en zone euro                    | Gratuit          | Gratuit
+Retrait dans un distributeur Orange Bank           | Gratuit          | Gratuit
+Retrait en zone euro, distributeur d'une autre banque | 3 retraits gratuits par mois civil, puis 1,00 € par retrait | Gratuit, illimité
+Retrait hors zone euro                             | 3,00 € + 2,5 % du montant retiré | 1,00 € par retrait
+Paiement par carte hors zone euro                  | 2,5 % du montant | Gratuit
+
+Précisions : la franchise de 3 retraits gratuits du Compte Essentiel s'apprécie par mois civil. Exemple : avec le Compte Essentiel, 5 retraits en zone euro dans des distributeurs d'autres banques en un mois donnent lieu à 2 retraits facturés, soit 2,00 €. Exemple : un retrait de 200 € hors zone euro avec le Compte Essentiel coûte 3,00 € + 5,00 € (2,5 % de 200 €), soit 8,00 €.
+
+-------------------------------------------------------------------
+3. VIREMENTS ET PRÉLÈVEMENTS
+-------------------------------------------------------------------
+Opération                                          | Essentiel        | Premium
+Virement SEPA standard (émis)                      | Gratuit          | Gratuit
+Virement SEPA instantané (émis)                    | 0,90 € par virement | Gratuit
+Virement international hors SEPA (émis)            | 15 € par virement | 8 € par virement
+Virement reçu                                      | Gratuit          | Gratuit
+Prélèvement SEPA                                   | Gratuit          | Gratuit
+Opposition à un prélèvement                        | Gratuit          | Gratuit
+
+Plafonds de virements sortants : 5 000 € par jour (Essentiel), 15 000 € par jour (Premium).
+
+-------------------------------------------------------------------
+4. INCIDENTS ET DÉCOUVERT
+-------------------------------------------------------------------
+Opération                                          | Essentiel        | Premium
+Commission d'intervention (par opération irrégulière) | 8 € par opération | 5 € par opération
+Plafond mensuel des commissions d'intervention     | 80 € par mois    | 50 € par mois
+Découvert autorisé (maximum)                       | 500 €            | 1 500 €
+Taux débiteur annuel du découvert autorisé         | 16,90 %          | 12,90 %
+
+Précisions : la commission d'intervention est plafonnée chaque mois. Exemple : avec le Compte Essentiel, 12 opérations irrégulières dans le mois représentent 96 €, ramenés au plafond de 80 €.
+
+-------------------------------------------------------------------
+5. SERVICES DIVERS
+-------------------------------------------------------------------
+Opération                                          | Essentiel        | Premium
+Relevé de compte électronique                      | Gratuit          | Gratuit
+Relevé de compte papier (par relevé)               | 1,50 €           | 1,50 €
+Changement d'adresse ou de coordonnées             | Gratuit          | Gratuit
+Rappel de fonds après virement erroné              | Gratuit (sans garantie de résultat) | Gratuit (sans garantie de résultat)
+
+-------------------------------------------------------------------
+6. ÉPARGNE
+-------------------------------------------------------------------
+Livret Orange Épargne : aucun frais de tenue de compte, de versement ni de retrait. Taux annuel brut de 3,00 %.
+
+-------------------------------------------------------------------
+7. CONDITIONS GÉNÉRALES DE LA GRILLE
+-------------------------------------------------------------------
+Les tarifs peuvent être modifiés ; toute modification est notifiée au moins 2 mois avant son entrée en vigueur. Les frais sont prélevés sur le compte courant du client. En cas de contestation d'un frais, le client peut adresser une réclamation au Service Client (0 800 123 456).

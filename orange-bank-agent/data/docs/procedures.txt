@@ -1,0 +1,72 @@
+ORANGE BANK — PROCÉDURES INTERNES DU SERVICE CLIENT
+Version en vigueur au 1er janvier 2026
+Document interne fictif, rédigé à des fins pédagogiques. À destination des conseillers et de l'assistant virtuel.
+
+Principes généraux
+- Toute action sensible sur le compte d'un client (opposition, contestation, déblocage d'accès, clôture) est précédée d'une vérification d'identité (procédure P-00).
+- L'opposition de carte pour perte ou vol est une action IMMÉDIATE et DÉFINITIVE : elle ne peut pas être annulée. Le verrouillage temporaire depuis l'application, lui, est réversible.
+- Un conseiller ne communique jamais d'informations contraires à la grille tarifaire et aux CGU en vigueur.
+
+=====================================================================
+P-00 — VÉRIFICATION D'IDENTITÉ
+=====================================================================
+Objectif : s'assurer que l'interlocuteur est bien le titulaire du compte.
+Le conseiller demande au client de confirmer deux éléments parmi : sa date de naissance, l'adresse e-mail du compte, les 4 derniers chiffres de sa carte. Il envoie ensuite un code à usage unique par SMS au numéro enregistré. Après 3 échecs, la demande est refusée et le client est invité à se connecter à l'application. Le conseiller ne demande JAMAIS le code personnel à 6 chiffres.
+
+=====================================================================
+P-01 — BLOCAGE (OPPOSITION) D'UNE CARTE
+=====================================================================
+Déclencheurs : perte, vol, détournement ou contrefaçon de la carte, ou suspicion de fraude.
+Pré-requis : identité vérifiée (P-00), identification de la carte concernée par ses 4 derniers chiffres, motif du blocage consigné.
+Résultat : la carte est bloquée immédiatement et définitivement ; une référence de blocage est communiquée au client.
+Suite : une carte de remplacement est commandée. Délai de livraison : 5 jours ouvrés pour une carte Classic ou Gold, 7 jours ouvrés pour une carte Prestige. Envoi express en 48 heures possible pour 20 €. Frais de remplacement : 10 € (Classic), 15 € (Gold), 25 € (Prestige). L'opposition est gratuite.
+Information à donner au client : sa perte maximale avant opposition est de 50 € ; après l'opposition, il ne supporte plus aucune perte.
+Si le client souhaite seulement suspendre sa carte quelques jours, lui indiquer le verrouillage temporaire depuis l'application plutôt que l'opposition.
+Cas particulier : si la carte est déjà bloquée, informer le client et vérifier que la carte de remplacement est bien commandée.
+
+=====================================================================
+P-02 — OUVERTURE D'UN DOSSIER DE CONTESTATION D'OPÉRATION
+=====================================================================
+Déclencheurs : opération de paiement non reconnue ; litige avec un commerçant ; prélèvement non autorisé.
+Pré-requis : identité vérifiée (P-00) ; identification de l'opération (identifiant, date, montant, commerçant) ; motif consigné.
+Délais de recevabilité :
+- Opération non autorisée (fraude) : jusqu'à 13 mois après la date de débit.
+- Litige commercial (bien ou service non reçu, non conforme, débité deux fois) : jusqu'à 120 jours après la date de débit.
+- Prélèvement autorisé dont le client demande le remboursement : 8 semaines à compter du débit.
+Résultat : un dossier de contestation est ouvert et une référence est communiquée au client. Le dossier est instruit dans un délai de 30 jours calendaires.
+Remboursement provisoire : pour une opération non autorisée, le client est remboursé au plus tard à la fin du premier jour ouvré suivant son signalement, sauf suspicion de fraude du client.
+Escalade : pour une opération supérieure à 1 000 €, le dossier est transmis à un conseiller senior.
+Si l'opération est déjà contestée, ne pas ouvrir de second dossier ; informer le client de l'état du dossier existant.
+
+=====================================================================
+P-03 — RÉCLAMATION CLIENT
+=====================================================================
+Niveau 1 : le Service Client enregistre la réclamation et envoie un accusé de réception sous 10 jours ouvrés. Il apporte une réponse sous 15 jours ouvrés.
+Niveau 2 : si le client n'est pas satisfait, la réclamation est transmise au Service Réclamations.
+Médiation : si le désaccord persiste, ou en l'absence de réponse satisfaisante sous 2 mois, le client peut saisir gratuitement le médiateur bancaire (coordonnées sur orangebank.example). Le conseiller doit l'en informer.
+
+=====================================================================
+P-04 — DÉBLOCAGE D'ACCÈS À L'APPLICATION
+=====================================================================
+Cause fréquente : 5 tentatives erronées du code personnel.
+Étapes : vérification d'identité (P-00), puis demande de réinitialisation du code personnel. L'accès est rétabli dans un délai de 24 heures. Le client reçoit une notification sur son téléphone enregistré.
+
+=====================================================================
+P-05 — CHANGEMENT DE COORDONNÉES
+=====================================================================
+Pour une nouvelle adresse, le client fournit un justificatif de domicile de moins de 3 mois. La mise à jour est traitée sous 5 jours ouvrés. Le changement de numéro de téléphone nécessite une vérification d'identité renforcée (P-00 et pièce d'identité). Aucun frais n'est facturé.
+
+=====================================================================
+P-06 — CLÔTURE DE COMPTE
+=====================================================================
+La clôture est gratuite et peut être demandée à tout moment. Vérifier l'identité (P-00), proposer au client de conserver ses produits d'épargne si pertinent, puis recueillir le compte bancaire de destination du solde. La clôture est effective sous 10 jours ouvrés. Les prélèvements et virements permanents doivent être transférés par le client avant la clôture.
+
+=====================================================================
+P-07 — SIGNALEMENT DE FRAUDE PAR TÉLÉPHONE OU SMS (HAMEÇONNAGE)
+=====================================================================
+Si un client indique avoir communiqué un code ou un identifiant à un tiers : (1) bloquer la carte immédiatement (P-01) ; (2) verrouiller l'accès à l'application et réinitialiser le code personnel (P-04) ; (3) ouvrir un dossier de contestation (P-02) pour chaque opération frauduleuse ; (4) rappeler que la Banque ne demande jamais de code au client. Une communication volontaire du code à un tiers peut être considérée comme une négligence grave du client, ce qui peut limiter le remboursement : le dossier est alors examiné par un conseiller senior.
+
+=====================================================================
+P-08 — VIREMENT ERRONÉ
+=====================================================================
+Un virement validé ne peut pas être annulé. Le conseiller peut demander un rappel de fonds à la banque du bénéficiaire, gratuitement mais sans garantie de résultat. Informer le client que le rappel dépend de l'accord du bénéficiaire. Pour un virement instantané, la demande doit être faite sans délai.
