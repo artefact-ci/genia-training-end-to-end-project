@@ -4,7 +4,6 @@ Un agent bancaire basé sur **LangGraph / LangChain**, pour la banque fictive *O
 
 Le projet fournit une **base qui fonctionne de bout en bout** (Brique 0). Vous la complétez ensuite brique par brique : le code livré contient des signatures et des **contrats** (docstrings) ; la façon d'y arriver vous appartient.
 
-> Public : vous avez déjà vu les agents en général. LangGraph et le RAG sont nouveaux pour vous.
 
 ---
 
